@@ -1,16 +1,15 @@
-# kalkulator
+# Kalkulator Flutter
 
-A new Flutter project.
+Aplikasi kalkulator sederhana yang dibangun menggunakan Flutter.
 
-## Getting Started
+## Fitur
+- Penjumlahan
+- Pengurangan
+- Perkalian
+- Pembagian
+- Modulus
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cara Menjalankan
+1. Clone repositori ini.
+2. Jalankan `flutter pub get` untuk menginstal dependencies.
+3. Jalankan `flutter run` untuk menjalankan aplikasi.
