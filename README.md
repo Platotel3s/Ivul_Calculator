@@ -18,36 +18,43 @@
     Dart: Bahasa pemrograman yang digunakan untuk mengembangkan aplikasi Flutter.
 
 🚀 Cara Menjalankan
-1. Persiapan
 
+1. Persiapan. <br>
 Pastikan Anda telah menginstal Flutter dan Dart di perangkat Anda. Jika belum, ikuti panduan instalasi di flutter.dev.
+
 2. Clone Repositori
+   Clone repositori ini ke lokal Anda:
+   
+        bash Copy
 
-Clone repositori ini ke lokal Anda:
-bash
-Copy
+        git clone https://github.com/Platotel3s/Ivul_Calculator.git
 
-git clone https://github.com/Platotel3s/Ivul_Calculator.git
-
+<br>
 3. Instal Dependencies
+    Masuk ke direktori proyek dan jalankan perintah berikut untuk menginstal dependencies:
 
-Masuk ke direktori proyek dan jalankan perintah berikut untuk menginstal dependencies:
-bash
-Copy
+    bash Copy
 
-flutter pub get
-
+    flutter pub get
+<br>
 4. Jalankan Aplikasi
 
 Jalankan aplikasi di perangkat atau emulator Anda:
-bash
-Copy
+    
+    bash Copy
 
-flutter run
+    flutter run
 
-📸 Screenshot (Opsional)
-
-<div align="center"> <img src="screenshot1.png" alt="Screenshot 1" width="200"> <img src="screenshot2.png" alt="Screenshot 2" width="200"> </div>
+📸 Screenshot
+    Contoh visual Aplikasi Ivul Calculator, bisa dilihat pada gambar di bawah ini
+<div align="left">
+    <img src="etc/1.png" alt="Screenshot 1" width="400"> <br> 
+    <img src="etc/2.png" alt="Screenshot 2" width="400"> <br>
+    <img src="etc/3.png" alt="Screenshot 2" width="400"> <br>
+    <img src="etc/4.png" alt="Screenshot 2" width="400"> <br>
+    <img src="etc/5.png" alt="Screenshot 2" width="400"> <br>
+</div>
+<br>
 🌟 Manfaat dan Kelebihan
 Manfaat
 
