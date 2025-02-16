@@ -79,20 +79,18 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan ikuti langkah-langkah ber
     Fork repository ini.
 
     Buat branch baru:
-    bash
-    Copy
+    
+    bash Copy
 
     git checkout -b fitur-baru
 
     Commit perubahan Anda:
-    bash
-    Copy
+    bash Copy
 
     git commit -m "Menambahkan fitur baru"
 
     Push ke branch:
-    bash
-    Copy
+    bash Copy
 
     git push origin fitur-baru
 
