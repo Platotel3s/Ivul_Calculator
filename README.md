@@ -20,20 +20,16 @@
 🚀 Cara Menjalankan
 
 1. Persiapan. <br>
-Pastikan Anda telah menginstal Flutter dan Dart di perangkat Anda. Jika belum, ikuti panduan instalasi di flutter.dev.
+   Pastikan Anda telah menginstal Flutter dan Dart di perangkat Anda. Jika belum, ikuti panduan instalasi di flutter.dev.
 
 2. Clone Repositori
    Clone repositori ini ke lokal Anda:
    
-        bash Copy
-
         git clone https://github.com/Platotel3s/Ivul_Calculator.git
 
 <br>
 3. Instal Dependencies
     Masuk ke direktori proyek dan jalankan perintah berikut untuk menginstal dependencies:
-
-    bash Copy
 
     flutter pub get
 <br>
@@ -41,8 +37,6 @@ Pastikan Anda telah menginstal Flutter dan Dart di perangkat Anda. Jika belum, i
 
 Jalankan aplikasi di perangkat atau emulator Anda:
     
-    bash Copy
-
     flutter run
 
 📸 Screenshot
@@ -76,34 +70,27 @@ Kelebihan
 
 Jika Anda ingin berkontribusi pada proyek ini, silakan ikuti langkah-langkah berikut:
 
-    Fork repository ini.
-
-    Buat branch baru:
+Buat branch baru:
     
-    bash Copy
-
     git checkout -b fitur-baru
 
-    Commit perubahan Anda:
-    bash Copy
+Commit perubahan Anda:
 
     git commit -m "Menambahkan fitur baru"
 
-    Push ke branch:
-    bash Copy
+Push ke branch:
 
     git push origin fitur-baru
-
-    Buat pull request.
 
 📜 Lisensi
 
 Proyek ini dilisensikan di bawah MIT License.
 
-👨‍💻 Tim Pengembang
+👨‍💻 Tim Pengembang <br> 
+
     Syaiful Yudha Platoteles : 
-      - 🚀 Project Lead
-      - 🖥️ Developer
+      - 🚀 Project Lead 
+      - 🖥️ Developer 
       - 🎨 UI/UX Designer
 
 Dengan Ivul Calculator ini, kami berharap dapat memberikan solusi sederhana untuk perhitungan matematika sehari-hari. Terima kasih telah menggunakan aplikasi ini! 😊
