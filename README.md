@@ -48,11 +48,11 @@ Jalankan aplikasi di perangkat atau emulator Anda:
 📸 Screenshot
     Contoh visual Aplikasi Ivul Calculator, bisa dilihat pada gambar di bawah ini
 <div align="left">
-    <img src="etc/1.png" alt="Screenshot 1" width="400"> <br> 
-    <img src="etc/2.png" alt="Screenshot 2" width="400"> <br>
-    <img src="etc/3.png" alt="Screenshot 2" width="400"> <br>
-    <img src="etc/4.png" alt="Screenshot 2" width="400"> <br>
-    <img src="etc/5.png" alt="Screenshot 2" width="400"> <br>
+    <img src="etc/1.png" alt="Screenshot 1" width="600"> <br> 
+    <img src="etc/2.png" alt="Screenshot 2" width="600"> <br>
+    <img src="etc/3.png" alt="Screenshot 2" width="600"> <br>
+    <img src="etc/4.png" alt="Screenshot 2" width="600"> <br>
+    <img src="etc/5.png" alt="Screenshot 2" width="600"> <br>
 </div>
 <br>
 🌟 Manfaat dan Kelebihan
